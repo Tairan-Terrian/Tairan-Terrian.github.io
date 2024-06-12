@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Tairan Huang's Personal Homepages"
 title_separator          : "-"
 name                     : &name "Tairan Huang"
 description              : &description "A first-year M.S. Student from Central South University"
